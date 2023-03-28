@@ -1,5 +1,5 @@
 # Professional Readme Generator
-  ![GitHub license](https://img.shields.io/badge/License-Apache_2.0-blue.svg)
+  ![GitHub license](https://img.shields.io/badge/License-MIT-blue.svg)
 
   ## Table of Content
 
@@ -25,7 +25,7 @@
 
   ## License
 
-  A high-quality README file is the license, this is liscensed by Apache_2.0.
+  A high-quality README file is the license, this is liscensed by MIT.
 
   ## Contributing
 
